@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1437610487",
+    "hash" : "1478579112",
     "id" : "D81A9B2B",
-    "lastKnownWriteTime" : 1573930069,
-    "last_content_update" : 1573930069,
+    "lastKnownWriteTime" : 1573932319,
+    "last_content_update" : 1573932319702,
     "path" : "~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial/config.toml",
     "project_path" : "config.toml",
     "properties" : {
+        "cursorPosition" : "2,31",
+        "scrollLine" : "0"
     },
     "relative_order" : 1,
     "source_on_save" : false,
