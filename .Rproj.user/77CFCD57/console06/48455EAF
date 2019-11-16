@@ -166,3 +166,27 @@ If you wish to set tracking information for this branch you can do so with:
     git branch --set-upstream-to=origin/<branch> master
 
 ]0;~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[36mluke[m@[32mdhcp-v027-087:[33;1m~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial (master)[m$ git pullsh -u origin mastercommit -m "first commit 2"add .[Kpush -u origin masterll[Ksh -u origin masteradd .[K
+]0;~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[36mluke[m@[32mdhcp-v027-087:[33;1m~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial (master)[m$ git add .[1Ppullsh -u origin master
+To https://github.com/lewkrr/web_portfolio.git
+ [31m! [rejected]       [m master -> master (non-fast-forward)
+[31merror: failed to push some refs to 'https://github.com/lewkrr/web_portfolio.git'
+[m[33mhint: Updates were rejected because the tip of your current branch is behind[m
+[33mhint: its remote counterpart. Integrate the remote changes (e.g.[m
+[33mhint: 'git pull ...') before pushing again.[m
+[33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[m
+]0;~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[36mluke[m@[32mdhcp-v027-087:[33;1m~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial (master)[m$ git push -u origin masteradd .[K[1Ppullsh -u origin mastercommit -m "first commit 2"add .[Kcommit -m "first commit 2"
+[master 0ebc95a] first commit 2
+ 1 file changed, 30 insertions(+)
+]0;~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[36mluke[m@[32mdhcp-v027-087:[33;1m~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial (master)[m$ git commit -m "first commit 2"[5Ppush -u origin masteradd .[K[1Ppulladd .
+]0;~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[36mluke[m@[32mdhcp-v027-087:[33;1m~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial (master)[m$ git add .commit -m "first commit 2"[5Ppush -u origin masteradd .[K[1Ppullsh -u origin masterll[K
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+]0;~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[36mluke[m@[32mdhcp-v027-087:[33;1m~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial (master)[m$ git pulladd .commit -m "first commit 2"add .[K
