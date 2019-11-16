@@ -1,0 +1,33 @@
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+]0;~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[?1034h[36mluke[m@[32mdhcp-v027-087:[33;1m~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[m$ ll
+total 12
+-rw-r--r-- 1 luke staff  225 Nov 16 10:47 Web_portfolio_tutorial.Rproj
+-rw-r--r-- 1 luke staff 1004 Nov 16 10:47 config.toml
+drwxr-xr-x 4 luke staff  128 Nov 16 10:47 [0m[01;34mcontent[0m
+-rw-r--r-- 1 luke staff   39 Nov 16 10:47 index.Rmd
+drwxr-xr-x 3 luke staff   96 Nov 16 10:47 [01;34mresources[0m
+drwxr-xr-x 3 luke staff   96 Nov 16 10:47 [01;34mstatic[0m
+drwxr-xr-x 3 luke staff   96 Nov 16 10:47 [01;34mthemes[0m
+]0;~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[36mluke[m@[32mdhcp-v027-087:[33;1m~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[m$ echo "# Text to put  in README" >> README.md
+]0;~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[36mluke[m@[32mdhcp-v027-087:[33;1m~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[m$ ll
+total 16
+-rw-r--r-- 1 luke staff   24 Nov 16 10:56 README.md
+-rw-r--r-- 1 luke staff  225 Nov 16 10:47 Web_portfolio_tutorial.Rproj
+-rw-r--r-- 1 luke staff 1004 Nov 16 10:47 config.toml
+drwxr-xr-x 4 luke staff  128 Nov 16 10:47 [0m[01;34mcontent[0m
+-rw-r--r-- 1 luke staff   39 Nov 16 10:47 index.Rmd
+drwxr-xr-x 3 luke staff   96 Nov 16 10:47 [01;34mresources[0m
+drwxr-xr-x 3 luke staff   96 Nov 16 10:47 [01;34mstatic[0m
+drwxr-xr-x 3 luke staff   96 Nov 16 10:47 [01;34mthemes[0m
+]0;~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[36mluke[m@[32mdhcp-v027-087:[33;1m~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[m$ git init
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+]0;~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[36mluke[m@[32mdhcp-v027-087:[33;1m~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[m$ xcode-select --inst all
+xcode-select: note: install requested for command line developer tools
+]0;~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[36mluke[m@[32mdhcp-v027-087:[33;1m~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[m$ xcode-select --instaall[A[36mluke[m@[32mdhcp-v027-087:[33;1m~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[m$ [11Pgit init
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Initialized empty Git repository in /Users/luke/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial/.git/
+]0;~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[36mluke[m@[32mdhcp-v027-087:[33;1m~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[m$ git initxcode-select --instaall[A[36mluke[m@[32mdhcp-v027-087:[33;1m~/Dropbox/Career/Professional Development/website/Web_portfolio_tutorial[m$ [11Pgit init
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kgit add .
